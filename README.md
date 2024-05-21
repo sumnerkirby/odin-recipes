@@ -1,1 +1,1 @@
-This project is to showcase my basic html skills.
+This project is to showcase my basic html skills. I am building a basic recipe site.
